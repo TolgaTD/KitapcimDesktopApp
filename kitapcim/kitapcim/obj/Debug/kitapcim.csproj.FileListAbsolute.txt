@@ -1,0 +1,11 @@
+C:\Users\AsusTD\Desktop\kitapcim\kitapcim\kitapcim\bin\Debug\kitapcim.exe.config
+C:\Users\AsusTD\Desktop\kitapcim\kitapcim\kitapcim\bin\Debug\kitapcim.exe
+C:\Users\AsusTD\Desktop\kitapcim\kitapcim\kitapcim\bin\Debug\kitapcim.pdb
+C:\Users\AsusTD\Desktop\kitapcim\kitapcim\kitapcim\obj\Debug\kitapcim.csproj.AssemblyReference.cache
+C:\Users\AsusTD\Desktop\kitapcim\kitapcim\kitapcim\obj\Debug\kitapcim.csproj.SuggestedBindingRedirects.cache
+C:\Users\AsusTD\Desktop\kitapcim\kitapcim\kitapcim\obj\Debug\kitapcim.Form1.resources
+C:\Users\AsusTD\Desktop\kitapcim\kitapcim\kitapcim\obj\Debug\kitapcim.Properties.Resources.resources
+C:\Users\AsusTD\Desktop\kitapcim\kitapcim\kitapcim\obj\Debug\kitapcim.csproj.GenerateResource.cache
+C:\Users\AsusTD\Desktop\kitapcim\kitapcim\kitapcim\obj\Debug\kitapcim.csproj.CoreCompileInputs.cache
+C:\Users\AsusTD\Desktop\kitapcim\kitapcim\kitapcim\obj\Debug\kitapcim.exe
+C:\Users\AsusTD\Desktop\kitapcim\kitapcim\kitapcim\obj\Debug\kitapcim.pdb
